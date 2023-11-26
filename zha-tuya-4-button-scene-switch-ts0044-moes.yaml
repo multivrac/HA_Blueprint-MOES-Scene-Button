@@ -84,7 +84,7 @@ blueprint:
       default: []
       selector:
         action: {}
-  source_url: https://github.com/multivrac/HA_Blueprint-MOES-Scene-Button
+  source_url: https://github.com/multivrac/HA_Blueprint-MOES-Scene-Button/blob/main/zha-tuya-4-button-scene-switch-ts0044-moes.yaml
 mode: restart
 max_exceeded: silent
 trigger:
