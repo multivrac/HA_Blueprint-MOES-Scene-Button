@@ -1,4 +1,4 @@
-# HA_Blueprint-MOES-Scene-Button
+# Home Assistant : Blueprint for MOES Scene Button
 **manufacturer: _TZ3000_wkai4ga5**
 
 **model: TS0044**
