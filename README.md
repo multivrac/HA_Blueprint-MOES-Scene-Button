@@ -2,6 +2,7 @@
 **manufacturer: _TZ3000_wkai4ga5**
 
 **model: TS0044**
+
 MOES TUYA Zigbee scene Button - Blueprint for Home Assistant
 
 Code du fichier YAML:
