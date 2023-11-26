@@ -9,7 +9,7 @@ To download it in Home Assistant, go to blueprint, add blueprint and copy addres
 
 https://github.com/multivrac/HA_Blueprint-MOES-Scene-Button/blob/cd65ee77f25cec7c61c87229887ac1f080befc45/zha-tuya-4-button-scene-switch-ts0044-moes.yaml
 
-Code du fichier YAML:
+## Code du fichier YAML:
 
 ```
 blueprint:
