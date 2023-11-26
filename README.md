@@ -3,6 +3,7 @@ MOES TUYA Zigbee scene Button - Blueprint for Home Assistant
 
 Code du fichier YAML:
 
+```
 blueprint:
   name: ZHA - Tuya 4-Button Scene Switch MOES
   description: Automate your Tuya 4-Button Scene Switch using ZHA events.
@@ -135,3 +136,4 @@ action:
         sequence: !input 'button_three_long_press'
       - conditions: '{{ endpoint_id == 4 }}'
         sequence: !input 'button_four_long_press'
+```
